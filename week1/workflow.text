@@ -1,0 +1,12 @@
+Here is a potential list of tasks that could need to happen every time something changes in the project. This is a simplified list, but it should give you an idea of the complexity of the process. 😰
+
+Lint (review) CSS and JavaScript to find any coding issues.
+Run unit tests to make sure nothing got broken with your last changes.
+Compile all preprocessed CSS to CSS.
+Concatenate all CSS into one file for faster loading.
+Minify the CSS to reduce file size.
+Transpile JavaScript with Babel for wider support for older browsers.
+Concatenate all JS files into one file for faster loading.
+Minify and Uglify JavaScript to reduce size.
+Do the same for any 3rd party CSS or JS.
+Move all the production assets into a distribution directory to separate them from the development stuff.
